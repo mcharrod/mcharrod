@@ -1,7 +1,10 @@
-<h3 align="center">Striving for Conscientious Development</h3>
 <h2>Hi there, I'm Katy! </h2>
 
 <img align='right' src="https://i.pinimg.com/originals/17/07/46/17074670b1d2d663fe3521a03f40c37c.gif" width="300">
+
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -18,18 +21,3 @@
 
 
 
-
-
-### <img src="https://media.giphy.com/media/bfcBj1SrYJxTr0JnV0/giphy.gif" width="50"> A little more about me...  
-
-```ruby
-me = {
-  pronouns: "he" | "him",
-  code: [Ruby, Ruby on Rails, HTML, CSS],
-  tools: [RSpec, ActiveRecord, PostgreSQL, Postman, Postico]
-}
-```
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Human connection is one of my favorite things</b> so drop me a line and let's get to know each other!</b> :)</em>
-
----
