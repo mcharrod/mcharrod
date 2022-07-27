@@ -3,6 +3,8 @@
 
 ![a cartoon cat waving](https://i.pinimg.com/originals/17/07/46/17074670b1d2d663fe3521a03f40c37c.gif)
 
+<img align='right' src="https://i.pinimg.com/originals/17/07/46/17074670b1d2d663fe3521a03f40c37c.gif" width="300">
+
 <img align='right' src="https://media.giphy.com/media/WCW7JbyCNmMUg/giphy.gif" width="400">
 <p><em>Back-end Development Student at <a href="https://turing.edu/">Turing School</a>  <img src="https://media.giphy.com/media/OBIBNR9ATt3HdpcmLC/giphy.gif" width="50"
 </em></p>
