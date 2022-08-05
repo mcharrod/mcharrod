@@ -1,4 +1,4 @@
-<h2>Hi there, I'm Katy! </h2>
+<h1>Hi there, I'm Katy! </h1>
 
 <img align='right' src="https://static.wikia.nocookie.net/oidarcn/images/7/78/Pika.gif/revision/latest/scale-to-width-down/400?cb=20160720220827" width="300">
 
